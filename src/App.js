@@ -5,7 +5,7 @@ import Todos from "./MyComponents/Todos";
 function App() {
   return (
     <>
-      <Header title="My Todos List" searchBar="True"/>
+      <Header title="My Todos list" searchBar={true}/>
       <Todos/>
       <Footer/>
 
@@ -15,3 +15,4 @@ function App() {
 }
 
 export default App;
+
