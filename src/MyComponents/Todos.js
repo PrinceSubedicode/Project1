@@ -7,7 +7,7 @@ const Todos = (props) => {
       <h3 className="text-center my-3">Todos list</h3>
 
       {props.todos.map((todo)=>{
-        return <TodoItem todo={todo}/>
+        return <TodoItem todo={todo} onDelete/>
       })}
     </div>
   )
