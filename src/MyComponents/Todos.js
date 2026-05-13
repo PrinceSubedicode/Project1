@@ -15,4 +15,3 @@ const Todos = (props) => {
 
 export default Todos
 
-..
