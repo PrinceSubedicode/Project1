@@ -22,7 +22,7 @@ function App() {
       desc: "You need to go to the market to get this job3 "
     },
   ]
-.
+..
 
   return (
     <>
