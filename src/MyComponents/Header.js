@@ -51,4 +51,4 @@ Header.propTypes = {
     searchBar: PropTypes.bool
 }
 
-
+...
